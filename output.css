@@ -2392,6 +2392,10 @@ input:checked + .toggle-bg {
     margin-right: 0px;
   }
 
+  .lg\:ml-30 {
+    margin-left: 7.5rem;
+  }
+
   .lg\:mt-0 {
     margin-top: 0px;
   }
@@ -2509,6 +2513,16 @@ input:checked + .toggle-bg {
     padding-right: 1.25rem;
   }
 
+  .lg\:px-20 {
+    padding-left: 5rem;
+    padding-right: 5rem;
+  }
+
+  .lg\:px-44 {
+    padding-left: 11rem;
+    padding-right: 11rem;
+  }
+
   .lg\:py-2\.5 {
     padding-top: 0.625rem;
     padding-bottom: 0.625rem;
@@ -2566,6 +2580,11 @@ input:checked + .toggle-bg {
   .lg\:text-3xl {
     font-size: 1.875rem;
     line-height: 2.25rem;
+  }
+
+  .lg\:text-5xl {
+    font-size: 3rem;
+    line-height: 1;
   }
 
   .lg\:text-purple-700 {
